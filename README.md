@@ -38,7 +38,7 @@
 
 比赛用例示例：
 
-![detail_01](E:\github\huawei-codecraft\img\detail_01.png)
+![detail_01](https://github.com/zproo/huawei-codecraft/blob/master/img/detail_01.png)
 
 上图为G省网络拓扑图，黑色圆圈为网络节点，红色圆圈为消费节点，圆圈内的数字为节点编号。节点之间的连线为网络链路。链路上的标记(x, y)中，x表示链路总带宽（单位为Gbps），y表示每Gbps的网络租用费。消费节点相连链路上的数字为消费节点的带宽消耗需求（单位为Gbps）。
 

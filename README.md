@@ -44,7 +44,7 @@
 
 现在假设需要在该网络上部署视频内容服务器，满足所有消费节点的需求。一个成本较低的方案如下图所示，其中绿色圆圈表示已部署的视频内容服务器，通往不同消费节点的网络路径用不同颜色标识，并附带了占用带宽的大小：
 
- ![detail_02](E:\github\huawei-codecraft\img\detail_02.png)
+ ![detail_02](https://github.com/zproo/huawei-codecraft/blob/master/img/detail_02.png)
 
 但该方案的成本不一定是最低的。因此现在需要参赛者提供的程序能够针对不同的比赛用例，给出成本最低的部署方案。
 

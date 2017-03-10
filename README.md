@@ -7,9 +7,9 @@
 - [w3cschool上的Java基本教程](http://www.w3cschool.cn/java/java-tutorial.html)
 - 2016年用java完成队伍的总结:
 
-> 1. future_net项目中，图的构建及其基本算法（Dijkstra等）使用了开源代码jgrapht jgrapht
+> 1. future_net项目中，***图的构建***及其***基本算法***（Dijkstra等）使用了开源代码**jgrapht**
 >
->    下载路径： https://github.com/jgrapht/jgrapht 
+>    **下载路径：** https://github.com/jgrapht/jgrapht 
 >
 >    版权声明: JGraphT is a free Java class library that provides mathematical graph-theory objects and algorithms. It runs on Java 2 Platform (requires JDK 1.8 or later starting with 0.9.3). JGraphT may be used under the terms of either the GNU Lesser General Public License (LGPL) 2.1 http://www.gnu.org/licenses/lgpl-2.1.html or the Eclipse Public License (EPL) http://www.eclipse.org/org/documents/epl-v10.php As a recipient of JGraphT, you may choose which license to receive the code under. For a detailed information on the dual license approach, see https://github.com/jgrapht/jgrapht/wiki/Relicensing. A copy of the EPL license and the LPGL license is included in the download. Please note that JGraphT is distributed WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Please refer to the license for details. 
 >
